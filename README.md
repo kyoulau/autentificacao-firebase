@@ -9,6 +9,7 @@
  - [Repositório Firebase](https://github.com/thisbejim/Pyrebase?tab=readme-ov-file#authentication)
  - [documentação](https://firebase.blog/posts/2017/02/email-verification-in-firebase-auth/)
  - [Como escrever bons readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Gerador aleatório online de email](https://temp-mail.org/pt/)
 - Python
 
 
